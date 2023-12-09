@@ -1,13 +1,13 @@
 import React from 'react'
-import Header from './components/header/header'
-import Nav from './components/nav/nav'
-import About from './components/about/about'
-import Experience from './components/experience/experience'
-import Services from './components/services/services'
-import Portfolio from './components/portfolio/portfolio'
-import Testimonials from './components/testimonial/testimonial'
-import Contact from './components/contact/contact'
-import Footer from './components/footer/footer'
+import Header from './components/Header/Header'
+import Nav from './components/Nav/Nav'
+import About from './components/About/About'
+import Experience from './components/Experience/Experience'
+import Services from './components/Services/Services'
+import Portfolio from './components/Portfolio/Portfolio'
+import Testimonials from './components/Testimonial/Testimonial'
+import Contact from './components/Contact/Contact'
+import Footer from './components/Footer/Footer'
 
 
 const App = () => {

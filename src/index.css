@@ -56,7 +56,7 @@ h1,
 h2,
 h3,
 h4,
-h5,{
+h5{
     font-weight: 500;
 }
 
@@ -66,6 +66,7 @@ h1{
 
 section{
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2,
@@ -120,7 +121,7 @@ img {
 
 /*=============MEDIA QUERIES (MEDIUM DEVICES) =============*/
 
-@media screen and (max-width 1024px) {
+@media screen and (max-width: 1024px) {
     .container{
         width: var(--container-width-md);
     }
@@ -131,7 +132,7 @@ section{
 
 /*=============MEDIA QUERIES (SMALL DEVICES) =============*/
 
-@media screen and (max-width 600px) {
+@media screen and (max-width: 600px) {
     .container{
         width: var(--container-width-sm);
     }
