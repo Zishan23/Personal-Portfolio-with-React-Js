@@ -28,8 +28,9 @@ const Testimonial = () => {
             </div>
             <h5 className='client_name'>Ernest Achiver</h5>
             <small className='client_review'>
-            Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?
-            Ex molestiae sapiente qui quidem nostrum vel laudantium necessitatibu
+            Lorem ipsum dolor sit amet. Et autem 
+            Ex molestiae sapiente qui quidem nostrum 
+            vel laudantium necessitatibu
             </small> 
         </article>
         <article className="testimonial">
