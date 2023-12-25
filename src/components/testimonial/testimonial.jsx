@@ -15,42 +15,32 @@ const Testimonial = () => {
         <article className="testimonial">
           <div className="client_avatar">
             <img src={AVTR1} alt="Avatar One" />
+            </div>
             <h5 className='client_name'>Ernest Achiver</h5>
             <small className='client_review'>
             Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?
             Ex molestiae sapiente qui quidem nostrum vel laudantium necessitatibu
-            </small>
-          </div>
+            </small> 
         </article>
         <article className="testimonial">
           <div className="client_avatar">
             <img src={AVTR1} alt="Avatar One" />
+            </div>
             <h5 className='client_name'>Ernest Achiver</h5>
             <small className='client_review'>
             Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?
             Ex molestiae sapiente qui quidem nostrum vel laudantium necessitatibu
-            </small>
-          </div>
+            </small> 
         </article>
         <article className="testimonial">
           <div className="client_avatar">
             <img src={AVTR1} alt="Avatar One" />
+            </div>
             <h5 className='client_name'>Ernest Achiver</h5>
             <small className='client_review'>
             Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?
             Ex molestiae sapiente qui quidem nostrum vel laudantium necessitatibu
-            </small>
-          </div>
-        </article>
-        <article className="testimonial">
-          <div className="client_avatar">
-            <img src={AVTR1} alt="Avatar One" />
-            <h5 className='client_name'>Ernest Achiver</h5>
-            <small className='client_review'>
-            Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?
-            Ex molestiae sapiente qui quidem nostrum vel laudantium necessitatibu
-            </small>
-          </div>
+            </small> 
         </article>
       </div>
 
