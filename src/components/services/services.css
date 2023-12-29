@@ -1,7 +1,7 @@
 .container_services{
-    display: grid;
+    display: grid ;
     grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
+    gap: 2.5rem;
 }
 
 .service{
@@ -35,7 +35,7 @@
 }
 
 .service_list{
-    padding: 2rem;
+    padding: 5rem;
 }
 
 .service_list li{

@@ -66,6 +66,7 @@ const Services = () => {
           </ul>
         </article>
 
+      
         <article className='service'>
           <div className="service_head">
             <h3>App Development</h3>
