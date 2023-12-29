@@ -5,6 +5,35 @@ import AVTR2 from '../../assets/avatar2.jpg'
 import AVTR3 from '../../assets/avatar3.jpg'
 import AVTR4 from '../../assets/avatar4.jpg'
 
+const data=[
+  {
+    avatar: AVTR1,
+    name: 'Tina Snow',
+    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    
+  },
+  {
+    avatar: AVTR2,
+    name: 'Tina Snow',
+    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    
+  },
+  {
+    avatar: AVTR3,
+    name: 'Tina Snow',
+    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    
+  },
+  {
+    avatar: AVTR4,
+    name: 'Tina Snow',
+    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    
+  },
+]
+
+
+
 const Testimonial = () => {
   return (
     <section id='testimonial'>
@@ -12,37 +41,21 @@ const Testimonial = () => {
       <h2>Testimonials</h2>
 
       <div className="container testimonial_container">
-        <article className="testimonial">
-          <div className="client_avatar">
-            <img src={AVTR1} alt="Avatar One" />
-            </div>
-            <h5 className='client_name'>Ernest Achiver</h5>
-            <small className='client_review'>
-            Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?
-            Ex molestiae sapiente qui quidem nostrum vel laudantium necessitatibu
-            </small> 
-        </article>
-        <article className="testimonial">
-          <div className="client_avatar">
-            <img src={AVTR2} alt="Avatar One" />
-            </div>
-            <h5 className='client_name'>Ernest Achiver</h5>
-            <small className='client_review'>
-            Lorem ipsum dolor sit amet. Et autem 
-            Ex molestiae sapiente qui quidem nostrum 
-            vel laudantium necessitatibu
-            </small> 
-        </article>
-        <article className="testimonial">
-          <div className="client_avatar">
-            <img src={AVTR3} alt="Avatar One" />
-            </div>
-            <h5 className='client_name'>Ernest Achiver</h5>
-            <small className='client_review'>
-            Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?
-            Ex molestiae sapiente qui quidem nostrum vel laudantium necessitatibu
-            </small> 
-        </article>
+        {
+          data.map(({avatar,name,review},index) => {
+            return(
+              <article key = {index}className="testimonial">
+              <div className="client_avatar">
+                <img src={avatar}  />
+                </div>
+                <h5 className='client_name'>{name}</h5>
+                <small className='client_review'>{review}</small> 
+            </article>
+            )
+          })
+        }
+       
+       
       </div>
 
     </section>
