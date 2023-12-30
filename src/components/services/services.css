@@ -1,7 +1,7 @@
-.container_services{
+.services_container{
     display: grid ;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2.5rem;
+    gap: 3rem;
 }
 
 .service{
