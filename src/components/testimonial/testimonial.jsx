@@ -47,7 +47,7 @@ const Testimonial = () => {
   return (
     <section id='testimonial'>
       <h5>References</h5>
-      <h2>Testimonials</h2>
+      <h2>Recommendation </h2>
 
       <Swiper className="container testimonial_container" 
       // install Swiper modules
