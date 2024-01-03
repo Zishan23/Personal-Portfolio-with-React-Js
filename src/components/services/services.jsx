@@ -1,8 +1,9 @@
-import React from 'react'
+
 import { useRef } from 'react';
 import './services.css'
 import ServicesCard from './ServicesCard';
 import Slider from "react-slick";
+
 
 
 const WORK_EXPERIENCE = [
@@ -57,7 +58,7 @@ const Services = () => {
         },
       },
     ],
-  }
+  };
 
   return (
     <section id='services' className='experience-container'>

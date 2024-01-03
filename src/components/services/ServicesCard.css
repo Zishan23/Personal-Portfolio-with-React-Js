@@ -23,6 +23,14 @@
     margin-bottom: 1.3rem ;
 }
 
+.work-experience-card ul li{
+    list-style: none;
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+
 .work-experience-card ul li::after{
     content: "";
     width: 0.5rem;
