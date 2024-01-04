@@ -1,4 +1,4 @@
-
+import React from 'react';
 import { useRef } from 'react';
 import './services.css'
 import ServicesCard from './ServicesCard';
@@ -43,11 +43,11 @@ const WORK_EXPERIENCE = [
 const Services = () => {
   const sliderRef = useRef();
   const settings = {
-    dots:false,
-    infinite:true,
-    speed:500,
-    slideToShow:2,
-    slideToScroll:1,
+    dots: false,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 2,
+    slidesToScroll: 1,
     arrows:false,
     responsive:[
       {
