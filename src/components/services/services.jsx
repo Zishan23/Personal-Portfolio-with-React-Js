@@ -65,6 +65,14 @@ const Services = () => {
       <h5>What I Offer</h5>
       <h2>Services</h2>
       <div className='experience-content'>
+
+        <div className='arrow-right'>
+          <span class="material-symbol-outlined">chevron_right</span>
+        </div>
+
+        <div className='arrow-left'>
+          <span class="material-symbol-outlined">chevron_left</span>
+        </div>
         <Slider ref={sliderRef} {...settings}>
         {WORK_EXPERIENCE.map((item) => (
           <ServicesCard key={item.title} details={item} />
