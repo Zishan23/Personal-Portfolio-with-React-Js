@@ -3,7 +3,8 @@ import { useRef } from 'react';
 import './services.css'
 import ServicesCard from './ServicesCard';
 import Slider from "react-slick";
-
+import { IoIosArrowBack } from "react-icons/io";
+import { IoIosArrowForward } from "react-icons/io";
 
 
 const WORK_EXPERIENCE = [
@@ -71,7 +72,7 @@ const Services = () => {
         </div>
 
         <div className='arrow-left'>
-          <span class="material-symbol-outlined">chevron_left</span>
+          <span class="material-symbol-outlined"><IoIosArrowForward /></span>
         </div>
         <Slider ref={sliderRef} {...settings}>
         {WORK_EXPERIENCE.map((item) => (
