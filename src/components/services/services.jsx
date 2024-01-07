@@ -3,6 +3,8 @@ import { useRef } from 'react';
 import './services.css'
 import ServicesCard from './ServicesCard';
 import Slider from "react-slick";
+import { chevron_right } from '@mui/icons-material';
+
 import { IoIosArrowBack } from "react-icons/io";
 import { IoIosArrowForward } from "react-icons/io";
 
@@ -68,7 +70,7 @@ const Services = () => {
       <div className='experience-content'>
 
         <div className='arrow-right'>
-          <span class="material-symbol-outlined">chevron_right</span>
+          <span class="material-symbol-outlined">&gt;</span>
         </div>
 
         <div className='arrow-left'>
