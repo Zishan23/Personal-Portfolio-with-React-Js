@@ -70,7 +70,7 @@ const Services = () => {
       <div className='experience-content'>
 
         <div className='arrow-right'>
-          <span class="material-symbol-outlined"></span>
+          <span class="material-symbol-outlined">chevron-right</span>
         </div>
 
         <div className='arrow-left'>
