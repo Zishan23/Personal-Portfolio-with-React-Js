@@ -11,8 +11,8 @@ import { IoIosArrowForward } from "react-icons/io";
 
 const WORK_EXPERIENCE = [
   {
-    title:"Senior Front End Engineer",
-    date: "April 2020 - Present",
+    title:"Web3 Developer, Intern",
+    date: "Mar 2023 – Present",
     responsibilities: [
       "Lead the team",
       "Lead the team",
