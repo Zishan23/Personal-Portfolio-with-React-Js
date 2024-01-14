@@ -14,21 +14,21 @@ const WORK_EXPERIENCE = [
     title:"Web3 Developer, Intern",
     date: "Mar 2023 – Present",
     responsibilities: [
-      "Lead the team",
-      "Lead the team",
-      "Lead the team",
-      "Lead the team",
+      "Built Smart Contract for NFT Tokens.",
+      "Redisgned FinX website using React.JS",
+      "Designed NFT membership cards for FinX clients.",
     ],
   },
   
   {
-    title:"Senior Front End Engineer",
-    date: "April 2020 - Present",
+    title:"Technical Account Manager, Intern",
+    date: "Mar 2022 – Sept 2022",
     responsibilities: [
-      "Lead the team",
-      "Lead the team",
-      "Lead the team",
-      "Lead the team",
+      "Streamlined manual processes and procedures using Python and ELK.",
+      "Optimized and refactored software to improve efficiency and productivity.",
+      "Deployed software on AWS Lambda for seamless functionality and scalability.",
+      "Successfully onboarded new e-commerce merchants and integrated their data.",
+      "Effectively communicated technical and performance issues to both merchants and internal teams.",
     ],
   },
   {
