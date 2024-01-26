@@ -3,7 +3,7 @@ import { useRef } from 'react';
 import './services.css'
 import ServicesCard from './ServicesCard';
 import Slider from "react-slick";
-import { chevron_right } from '@mui/icons-material';
+
 
 import { IoIosArrowBack } from "react-icons/io";
 import { IoIosArrowForward } from "react-icons/io";
@@ -33,12 +33,12 @@ const WORK_EXPERIENCE = [
   },
   {
     title:"Senior Front End Engineer",
-    date: "April 2020 - Present",
+    date: "Mar 2020 - Present",
     responsibilities: [
-      "Lead the team",
-      "Lead the team",
-      "Lead the team",
-      "Lead the team",
+      "Collaborated with designers and product managers to implement new features and improve user experience, ensuring adherence to the company's brand guidelines and design principles.",
+      "Conducted unit testing and integration testing using Jest and Enzyme, improved code quality and fewer bugs.",
+      "Implemented performance optimizations, such as code splitting and lazy loading, resulting in faster page load times and improved user experience for clients.",
+      "• Mentored junior developers on React.js and best practices for frontend development.",
     ],
   },
 ];
