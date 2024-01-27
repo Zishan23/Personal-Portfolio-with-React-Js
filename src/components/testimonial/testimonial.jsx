@@ -17,14 +17,14 @@ import 'swiper/css/pagination';
 const data=[
   {
     avatar: AVTR1,
-    name: 'Tina Snow',
-    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    name: 'Kazi Abir Adnan',
+    review : 'Senior MLDataOps Engineer at Foxtel Group Australia'
     
   },
   {
     avatar: AVTR2,
-    name: 'Tina Snow',
-    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    name: 'Tahmid Hossain',
+    review : 'Machine Learning Engineer at Arkeus'
     
   },
   {
