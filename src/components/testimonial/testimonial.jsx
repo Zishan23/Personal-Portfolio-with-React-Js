@@ -29,8 +29,8 @@ const data=[
   },
   {
     avatar: AVTR3,
-    name: 'Tina Snow',
-    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    name: 'Sadman Protik',
+    review : 'SWE-SRE III at Google Dublin, Ireland'
     
   },
   {
