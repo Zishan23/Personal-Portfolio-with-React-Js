@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Zishan23.github.io/react-gh-pages",
+  "homepage": "https://Zishan23.github.io/react-gh-pages",
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -47,4 +47,3 @@
     "gh-pages": "^6.1.1"
   }
 }
-
