@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8ebebe8c.css",
-    "main.js": "/react-gh-pages/static/js/main.7c5f3000.js",
-    "static/media/cv.pdf": "/react-gh-pages/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/portfolio5.png": "/react-gh-pages/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/react-gh-pages/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/react-gh-pages/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/react-gh-pages/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/react-gh-pages/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/avatar2.jpg": "/react-gh-pages/static/media/avatar2.111ecc4265c04b562a67.jpg",
-    "static/media/me.png": "/react-gh-pages/static/media/me.32989f621ab967190389.png",
-    "static/media/portfolio4.jpg": "/react-gh-pages/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/me-about.jpg": "/react-gh-pages/static/media/me-about.f5630713bc58e6db4de5.jpg",
-    "static/media/avatar1.jpg": "/react-gh-pages/static/media/avatar1.4ec9d8196f480262ed6e.jpg",
-    "static/media/slick.svg": "/react-gh-pages/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/react-gh-pages/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/react-gh-pages/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/react-gh-pages/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/react-gh-pages/index.html",
-    "main.8ebebe8c.css.map": "/react-gh-pages/static/css/main.8ebebe8c.css.map",
-    "main.7c5f3000.js.map": "/react-gh-pages/static/js/main.7c5f3000.js.map"
+    "main.css": "/Personal-Portfolio-with-React-Js/static/css/main.b0b590bb.css",
+    "main.js": "/Personal-Portfolio-with-React-Js/static/js/main.ce42581d.js",
+    "static/media/cv.pdf": "/Personal-Portfolio-with-React-Js/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/portfolio5.png": "/Personal-Portfolio-with-React-Js/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/Personal-Portfolio-with-React-Js/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Personal-Portfolio-with-React-Js/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Personal-Portfolio-with-React-Js/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Personal-Portfolio-with-React-Js/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/avatar2.jpg": "/Personal-Portfolio-with-React-Js/static/media/avatar2.111ecc4265c04b562a67.jpg",
+    "static/media/me.png": "/Personal-Portfolio-with-React-Js/static/media/me.32989f621ab967190389.png",
+    "static/media/portfolio4.jpg": "/Personal-Portfolio-with-React-Js/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/me-about.jpg": "/Personal-Portfolio-with-React-Js/static/media/me-about.f5630713bc58e6db4de5.jpg",
+    "static/media/avatar1.jpg": "/Personal-Portfolio-with-React-Js/static/media/avatar1.4ec9d8196f480262ed6e.jpg",
+    "static/media/slick.svg": "/Personal-Portfolio-with-React-Js/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Personal-Portfolio-with-React-Js/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Personal-Portfolio-with-React-Js/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Personal-Portfolio-with-React-Js/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Personal-Portfolio-with-React-Js/index.html",
+    "main.b0b590bb.css.map": "/Personal-Portfolio-with-React-Js/static/css/main.b0b590bb.css.map",
+    "main.ce42581d.js.map": "/Personal-Portfolio-with-React-Js/static/js/main.ce42581d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ebebe8c.css",
-    "static/js/main.7c5f3000.js"
+    "static/css/main.b0b590bb.css",
+    "static/js/main.ce42581d.js"
   ]
 }
