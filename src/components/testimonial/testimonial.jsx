@@ -16,9 +16,9 @@ import 'swiper/css/pagination';
 
 const data=[
   {
-    avatar: AVTR1,
-    name: 'Kazi Abir Adnan',
-    review : 'Senior MLDataOps Engineer at Foxtel Group Australia'
+    avatar: AVTR4,
+    name: 'David Christ',
+    review : 'Senior Software Engineer at Canva'
     
   },
   {
@@ -34,9 +34,9 @@ const data=[
     
   },
   {
-    avatar: AVTR4,
-    name: 'Tina Snow',
-    review : 'Lorem ipsum dolor sit amet. Et autem consectetur id quas temporibus aut voluptatibus perferendis sit voluptas enim?'
+    avatar: AVTR1,
+    name: 'Kazi Abir Adnan',
+    review : 'Senior MLDataOps Engineer at Foxtel Group Australia'
     
   },
 ]
