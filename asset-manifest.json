@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio-with-React-Js/static/css/main.b0b590bb.css",
-    "main.js": "/Personal-Portfolio-with-React-Js/static/js/main.ce42581d.js",
+    "main.js": "/Personal-Portfolio-with-React-Js/static/js/main.d02b2c77.js",
     "static/media/cv.pdf": "/Personal-Portfolio-with-React-Js/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/portfolio5.png": "/Personal-Portfolio-with-React-Js/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio2.jpg": "/Personal-Portfolio-with-React-Js/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
@@ -13,16 +13,17 @@
     "static/media/portfolio4.jpg": "/Personal-Portfolio-with-React-Js/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/me-about.jpg": "/Personal-Portfolio-with-React-Js/static/media/me-about.f5630713bc58e6db4de5.jpg",
     "static/media/avatar1.jpg": "/Personal-Portfolio-with-React-Js/static/media/avatar1.4ec9d8196f480262ed6e.jpg",
+    "static/media/avatar4.jpg": "/Personal-Portfolio-with-React-Js/static/media/avatar4.96a95843e43065404b92.jpg",
     "static/media/slick.svg": "/Personal-Portfolio-with-React-Js/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Personal-Portfolio-with-React-Js/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Personal-Portfolio-with-React-Js/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Personal-Portfolio-with-React-Js/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Personal-Portfolio-with-React-Js/index.html",
     "main.b0b590bb.css.map": "/Personal-Portfolio-with-React-Js/static/css/main.b0b590bb.css.map",
-    "main.ce42581d.js.map": "/Personal-Portfolio-with-React-Js/static/js/main.ce42581d.js.map"
+    "main.d02b2c77.js.map": "/Personal-Portfolio-with-React-Js/static/js/main.d02b2c77.js.map"
   },
   "entrypoints": [
     "static/css/main.b0b590bb.css",
-    "static/js/main.ce42581d.js"
+    "static/js/main.d02b2c77.js"
   ]
 }
