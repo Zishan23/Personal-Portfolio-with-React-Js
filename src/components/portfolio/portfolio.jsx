@@ -11,15 +11,15 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency dashboard',
-    github: 'https://github.com/Zishan23/Volunteer-Story',
+    title: 'Insurance Management System',
+    github:'https://github.com/Zishan23/Insurance-Management-Website',
     demo: 'https://github.com/Zishan23/Volunteer-Story'
 
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts',
+    title: 'Volunteer Stories',
     github: 'https://github.com/Zishan23/Volunteer-Story',
     demo: 'https://github.com/Zishan23/Volunteer-Story'
 
@@ -27,7 +27,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Figma',
+    title: 'Mobile Fruit Recognition',
     github: 'https://github.com/Zishan23/Volunteer-Story',
     demo: 'https://github.com/Zishan23/Volunteer-Story'
 
@@ -44,16 +44,16 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto Currency dashboard',
-    github: 'https://github.com/Zishan23/Volunteer-Story',
+    title: 'Multimedia Image Retrival',
+    github: 'https://github.com/Zishan23/Multimedia-Image-Retrieval',
     demo: 'https://github.com/Zishan23/Volunteer-Story'
 
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto Currency dashboard',
-    github: 'https://github.com/Zishan23/Volunteer-Story',
+    title: 'Social Media Dashboard',
+    github: 'https://github.com/Zishan23/AP-Assignment2',
     demo: 'https://github.com/Zishan23/Volunteer-Story'
 
   }
