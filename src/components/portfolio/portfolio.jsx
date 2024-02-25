@@ -36,7 +36,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto Currency dashboard',
+    title: 'Copper 24',
     github: 'https://github.com/Zishan23/Volunteer-Story',
     demo: 'https://github.com/Zishan23/Volunteer-Story'
 
