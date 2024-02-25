@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/www.ismamzishan.com/static/css/main.403f1d79.css",
-    "main.js": "/www.ismamzishan.com/static/js/main.16395986.js",
+    "main.js": "/www.ismamzishan.com/static/js/main.2957b488.js",
     "static/media/portfolio5.png": "/www.ismamzishan.com/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/cv.pdf": "/www.ismamzishan.com/static/media/cv.2a363c5458afd400e917.pdf",
     "static/media/portfolio2.jpg": "/www.ismamzishan.com/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
@@ -20,10 +20,10 @@
     "static/media/slick.woff": "/www.ismamzishan.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/www.ismamzishan.com/index.html",
     "main.403f1d79.css.map": "/www.ismamzishan.com/static/css/main.403f1d79.css.map",
-    "main.16395986.js.map": "/www.ismamzishan.com/static/js/main.16395986.js.map"
+    "main.2957b488.js.map": "/www.ismamzishan.com/static/js/main.2957b488.js.map"
   },
   "entrypoints": [
     "static/css/main.403f1d79.css",
-    "static/js/main.16395986.js"
+    "static/js/main.2957b488.js"
   ]
 }
