@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.b400d16b.css",
-    "main.js": "/static/js/main.b4968f88.js",
-    "static/media/cv.pdf": "/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/avatar2.jpg": "/static/media/avatar2.111ecc4265c04b562a67.jpg",
-    "static/media/me.png": "/static/media/me.32989f621ab967190389.png",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/me-about.jpg": "/static/media/me-about.f5630713bc58e6db4de5.jpg",
-    "static/media/avatar1.jpg": "/static/media/avatar1.4ec9d8196f480262ed6e.jpg",
-    "static/media/avatar4.jpg": "/static/media/avatar4.96a95843e43065404b92.jpg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.b400d16b.css.map": "/static/css/main.b400d16b.css.map",
-    "main.b4968f88.js.map": "/static/js/main.b4968f88.js.map"
+    "main.css": "/www.ismamzishan.com/static/css/main.403f1d79.css",
+    "main.js": "/www.ismamzishan.com/static/js/main.bdd7a1c1.js",
+    "static/media/cv.pdf": "/www.ismamzishan.com/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/portfolio5.png": "/www.ismamzishan.com/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/www.ismamzishan.com/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/www.ismamzishan.com/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/www.ismamzishan.com/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/www.ismamzishan.com/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/avatar2.jpg": "/www.ismamzishan.com/static/media/avatar2.111ecc4265c04b562a67.jpg",
+    "static/media/me.png": "/www.ismamzishan.com/static/media/me.32989f621ab967190389.png",
+    "static/media/portfolio4.jpg": "/www.ismamzishan.com/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/me-about.jpg": "/www.ismamzishan.com/static/media/me-about.f5630713bc58e6db4de5.jpg",
+    "static/media/avatar1.jpg": "/www.ismamzishan.com/static/media/avatar1.4ec9d8196f480262ed6e.jpg",
+    "static/media/avatar4.jpg": "/www.ismamzishan.com/static/media/avatar4.96a95843e43065404b92.jpg",
+    "static/media/slick.svg": "/www.ismamzishan.com/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/www.ismamzishan.com/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/www.ismamzishan.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/www.ismamzishan.com/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/www.ismamzishan.com/index.html",
+    "main.403f1d79.css.map": "/www.ismamzishan.com/static/css/main.403f1d79.css.map",
+    "main.bdd7a1c1.js.map": "/www.ismamzishan.com/static/js/main.bdd7a1c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.b400d16b.css",
-    "static/js/main.b4968f88.js"
+    "static/css/main.403f1d79.css",
+    "static/js/main.bdd7a1c1.js"
   ]
 }
