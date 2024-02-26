@@ -52,7 +52,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Social Media Dashboard',
+    title: 'Social Media Management',
     github: 'https://github.com/Zishan23/AP-Assignment2',
     demo: 'https://github.com/Zishan23/Volunteer-Story'
 
