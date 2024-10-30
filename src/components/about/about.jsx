@@ -56,7 +56,7 @@ Some notable projects I have worked on include the Image Based Animal Classifica
 If you're seeking a passionate and dedicated professional who thrives in both technical account management and full-stack development, let's connect and explore potential collaboration opportunities. Feel free to reach out to me at zishanismam@gmail.com
           </p>
 
-          <a href='#contact'className='btn btn-primary'>Let's Talk</a>
+          <a href='#contact'className='btn btn-primary'>Let's Connect</a>
         </div>
       </div>
       </section>
