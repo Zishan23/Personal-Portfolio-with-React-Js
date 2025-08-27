@@ -21,6 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-node_modules
+
 # Exclude large cache files
-node_modules/.cache/default-development/*.pack.DS_Store
+node_modules/.cache/default-development/*.pack
